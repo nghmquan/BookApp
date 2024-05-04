@@ -1,0 +1,56 @@
+<resources>
+    <!-- Tiêu đề của app -->
+    <string name="app_name">Book App</string>
+    <!-- Button đăng nhập -->
+    <string name="button_login">Đăng nhập</string>
+    <!-- Button đăng nhập không cần tài khoản -->
+    <string name="button_skip">Đăng nhập không cần tài khoản</string>
+    <!-- Vui lòng đăng nhập -->
+    <string name="title_login">Đăng nhập tài khoản</string>
+    <!-- Tài khoản email -->
+    <string name="email_account">Tài khoản email</string>
+    <!-- Mật khẩu -->
+    <string name="password_account">Mật khẩu</string>
+    <!-- Xác nhận mật khẩu -->
+    <string name="confirm_password_account">Mật khẩu</string>
+    <!-- Quên mật khẩu? -->
+    <string name="forgot_password">Quên mật khẩu?</string>
+    <!-- Chưa có tài khoản -->
+    <string name="new_user">Bạn chưa có tài khoản? <b>Đăng ký</b></string>
+    <!-- Tạo tài khoản mới -->
+    <string name="create_account">Tạo tài khoản mới</string>
+    <!-- Quay lại trang trước -->
+    <string name="back">Quay lại trang trước</string>
+    <!-- Tên người dùng -->
+    <string name="user_name">Tên người dùng</string>
+    <!-- Button đăng ký -->
+    <string name="button_register">Đăng ký</string>
+    <!-- Bảng điều khiển admin -->
+    <string name="dashboard_admin">Admin</string>
+    <!-- Bảng điều khiển người dùng -->
+    <string name="dashboard_user">Người dùng</string>
+    <!-- Email mẫu -->
+    <string name="example_email">abc@xyz.com</string>
+    <!-- Thoát -->
+    <string name="logout">Thoát</string>
+    <!-- Button thêm thể loại sách -->
+    <string name="add_category">+Thể loại</string>
+    <!-- Thêm thể loại sách -->
+    <string name="add_new_category">Thêm thể loại sách</string>
+    <!-- Tiêu đề thể loại sách -->
+    <string name="title_category">Tên thể loại sách</string>
+    <!-- Button thêm -->
+    <string name="button_submit">Thêm</string>
+    <!-- Tìm kiếm -->
+    <string name="search">Tìm kiếm</string>
+    <!-- Thêm sách -->
+    <string name="add_new_book">Thêm sách mới</string>
+    <!-- Tên sách -->
+    <string name="title_book">Tên sách</string>
+    <!-- Mô tả sách -->
+    <string name="description_book">Mô tả sách</string>
+    <!-- Thể loại sách -->
+    <string name="book_category">Thể loại sách</string>
+    <!-- TODO -->
+    <string name="todo">TODO</string>
+</resources>
